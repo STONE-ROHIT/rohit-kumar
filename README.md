@@ -35,16 +35,16 @@ This project is built entirely using core web technologies:
 
 ---
 
-
 ## Live Demo
 
 Check out the live site here:  
 [https://r0hit-kumar.netlify.app/](https://r0hit-kumar.netlify.app/)
 
 ---
-```
+
 ## Project Structure
 
+```
 front-end/
 ├── index.html
 ├── main.js
