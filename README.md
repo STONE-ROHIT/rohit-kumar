@@ -34,6 +34,14 @@ This project is built entirely using core web technologies:
 > The website is built from scratch using plain HTML, CSS, and JavaScript.
 
 ---
+
+
+## Live Demo
+
+Check out the live site here:  
+[https://r0hit-kumar.netlify.app/](https://r0hit-kumar.netlify.app/)
+
+---
 ```
 ## 📁 Project Structure
 
