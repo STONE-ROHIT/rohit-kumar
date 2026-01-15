@@ -8,7 +8,7 @@ simple platform to present my backend and programming work.
 
 ---
 
-## ✨ Features
+## Features
 
 - Responsive design for desktop and mobile devices
 - Smooth navigation between sections
@@ -19,7 +19,7 @@ simple platform to present my backend and programming work.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 This project is built entirely using core web technologies:
 
@@ -43,7 +43,7 @@ Check out the live site here:
 
 ---
 ```
-## 📁 Project Structure
+## Project Structure
 
 front-end/
 ├── index.html
