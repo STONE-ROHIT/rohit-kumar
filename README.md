@@ -34,7 +34,7 @@ This project is built entirely using core web technologies:
 > The website is built from scratch using plain HTML, CSS, and JavaScript.
 
 ---
-
+```
 ## 📁 Project Structure
 
 front-end/
@@ -49,3 +49,4 @@ front-end/
 │ └── resume.pdf
 ├── swiper-bundle.min.css
 └── swiper-bundle.min.js
+```
